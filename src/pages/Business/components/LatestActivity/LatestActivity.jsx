@@ -5,7 +5,7 @@ import BarChart from './BarChart';
 const getData = () => {
   return Array.from({ length: 10 }).map((item, index) => {
     return {
-      name: `${index + 1}. 造物节`,
+      name: `${index + 1}. 经纪BU`,
       num: parseInt(Math.random() * 1000),
     };
   });

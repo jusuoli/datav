@@ -25,7 +25,7 @@ export default () => {
           textAlign: 'right',
         }}
       >
-        阿里巴巴集团
+        开源世界
         <br />
         © 2018 版权所有
       </div>

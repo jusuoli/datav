@@ -15,10 +15,15 @@ const asideMenuConfig = [
   },
   {
     name: '反馈',
-    path: 'https://github.com/alibaba/ice/issues/new',
+    path: 'https://github.com/jusuoli/datav/issues/new',
     icon: 'question2',
     external: true,
     newWindow: true,
+  },
+  {
+    name: 'IceworksPreviewPage',
+    path: '/IceworksPreviewPage',
+    icon: 'home',
   },
 ];
 

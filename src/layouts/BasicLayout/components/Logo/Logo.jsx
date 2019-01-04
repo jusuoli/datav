@@ -11,7 +11,7 @@ export default class Logo extends Component {
           alt="logo"
         />
         <Link to="/" style={styles.logoText}>
-          数据监控系统
+          数据监控中心
         </Link>
       </div>
     );
