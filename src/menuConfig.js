@@ -9,7 +9,7 @@ const asideMenuConfig = [
     icon: 'home2',
   },
   {
-    name: '数据中心',
+    name: '数据中心（北京）',
     path: '/datacenter',
     icon: 'cascades',
   },
@@ -19,11 +19,6 @@ const asideMenuConfig = [
     icon: 'question2',
     external: true,
     newWindow: true,
-  },
-  {
-    name: 'IceworksPreviewPage',
-    path: '/IceworksPreviewPage',
-    icon: 'home',
   },
 ];
 

@@ -5,7 +5,7 @@
 import BasicLayout from './layouts/BasicLayout';
 import NotFound from './pages/NotFound';
 import Business from './pages/Business';
-import IceworksPreviewPage from './pages/IceworksPreviewPage';
+
 import DataCenter from './pages/DataCenter';
 
 const routerConfig = [
@@ -18,11 +18,6 @@ const routerConfig = [
     path: '/datacenter',
     layout: BasicLayout,
     component: DataCenter,
-  },
-  {
-    path: '/IceworksPreviewPage',
-    layout: BasicLayout,
-    component: IceworksPreviewPage,
   },
   {
     path: '*',
